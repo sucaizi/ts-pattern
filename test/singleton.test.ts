@@ -1,4 +1,4 @@
-import { Singleton }  from '../src/singleton';
+import { Singleton }  from '../src/createPattern/singleton';
 
 describe('singleton', () => {
     it('works', () => {
