@@ -14,6 +14,7 @@
     "noFallthroughCasesInSwitch": true,
     "moduleResolution": "node",
     "baseUrl": "./",
+    "target": "ES5",
     "paths": {
       "*": ["src/*", "node_modules/*"]
     },
