@@ -1,6 +1,22 @@
-# TSDX Bootstrap
 
-This project was bootstrapped with [TSDX](https://github.com/jaredpalmer/tsdx).
+# The implementations of Zen of Design Patterns in TypeScript
+
+### Create Pattern ###
+
+* [Singleton](https://github.com/sucaizi/ts-pattern/blob/master/src/createPattern/singleton)
+* [SingletonEx](https://github.com/sucaizi/ts-pattern/blob/master/src/createPattern/singletonEx.ts)
+* [Abstract Factory](https://github.com/sucaizi/ts-pattern/blob/master/src/createPattern/abstract-factory.ts)
+* [Factory](https://github.com/sucaizi/ts-pattern/blob/master/src/createPattern/factory.ts)
+* [Builder](https://github.com/sucaizi/ts-pattern/blob/master/src/createPattern/builder.ts)
+
+### Structural Pattern ###
+
+* TODO
+
+### Behavioral Pattern ###
+
+* TODO
+
 
 ## Local Development
 
