@@ -1,6 +1,8 @@
-import { SingletonEx }  from '../src/createPattern/singletonEx';
+import {
+    SingletonEx
+} from '../src/create-pattern/singletonEx';
 
-class Animal  {
+class Animal {
     public root: string = "animal";
 }
 
@@ -15,7 +17,7 @@ describe('singletonEx', () => {
     });
 
     it('is instance of Animal', () => {
-        
+
         const o1 = SingletonEx.getInstance(Animal);
         expect(o1).toBeInstanceOf(Animal);
     });

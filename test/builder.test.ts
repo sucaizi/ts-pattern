@@ -1,7 +1,7 @@
 import {
     Product,
     ProductBuilder
-} from '../src/createPattern/builder';
+} from '../src/create-pattern/builder';
 
 describe('builder pattern', () => {
 

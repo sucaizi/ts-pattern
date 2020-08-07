@@ -1,4 +1,4 @@
-import { AbstractProductA, AbstractFactory, ConcreteFactory1, AbstractProductB, ConcreteFactory2 } from '../src/createPattern/abstract-factory'
+import { AbstractProductA, AbstractFactory, ConcreteFactory1, AbstractProductB, ConcreteFactory2 } from '../src/create-pattern/abstract-factory';
 
 describe('abstract factory', () => {
 

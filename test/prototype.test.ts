@@ -1,4 +1,7 @@
-import { ConcreatePrototype, Prototype } from '../src/createPattern/prototype'
+import {
+    ConcreatePrototype,
+    Prototype
+} from '../src/create-pattern/prototype'
 
 describe('prototype pattern', () => {
     it('work', () => {
