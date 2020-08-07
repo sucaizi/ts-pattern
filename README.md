@@ -8,6 +8,7 @@
 * [Abstract Factory](https://github.com/sucaizi/ts-pattern/blob/master/src/createPattern/abstract-factory.ts)
 * [Factory](https://github.com/sucaizi/ts-pattern/blob/master/src/createPattern/factory.ts)
 * [Builder](https://github.com/sucaizi/ts-pattern/blob/master/src/createPattern/builder.ts)
+* [Builder](https://github.com/sucaizi/ts-pattern/blob/master/src/createPattern/prototype.ts)
 
 ### Structural Pattern ###
 
