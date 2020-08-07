@@ -3,21 +3,21 @@
 
 ### Create Pattern ###
 
-* [Singleton](https://github.com/sucaizi/ts-pattern/blob/master/src/createPattern/singleton)
-* [SingletonEx](https://github.com/sucaizi/ts-pattern/blob/master/src/createPattern/singletonEx.ts)
-* [Abstract Factory](https://github.com/sucaizi/ts-pattern/blob/master/src/createPattern/abstract-factory.ts)
-* [Factory](https://github.com/sucaizi/ts-pattern/blob/master/src/createPattern/factory.ts)
-* [Builder](https://github.com/sucaizi/ts-pattern/blob/master/src/createPattern/builder.ts)
-* [Prototype](https://github.com/sucaizi/ts-pattern/blob/master/src/createPattern/prototype.ts)
-* [Iterator](https://github.com/sucaizi/ts-pattern/blob/master/src/createPattern/iterator.ts)
+* [Singleton](https://github.com/sucaizi/ts-pattern/blob/master/src/create-pattern/singleton)
+* [SingletonEx](https://github.com/sucaizi/ts-pattern/blob/master/src/create-pattern/singletonEx.ts)
+* [Abstract Factory](https://github.com/sucaizi/ts-pattern/blob/master/src/create-pattern/abstract-factory.ts)
+* [Factory](https://github.com/sucaizi/ts-pattern/blob/master/src/create-pattern/factory.ts)
+* [Builder](https://github.com/sucaizi/ts-pattern/blob/master/src/create-pattern/builder.ts)
+* [Prototype](https://github.com/sucaizi/ts-pattern/blob/master/src/create-pattern/prototype.ts)
+* [Iterator](https://github.com/sucaizi/ts-pattern/blob/master/src/create-pattern/iterator.ts)
 
-### Structural Pattern ###
-
-* TODO
-
-### Behavioral Pattern ###
+### Structure Pattern ###
 
 * TODO
+
+### Behavior Pattern ###
+
+*  [Observer](https://github.com/sucaizi/ts-pattern/blob/master/src/behavior-pattern/observer.ts)
 
 
 ## Local Development
