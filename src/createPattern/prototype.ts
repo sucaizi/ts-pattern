@@ -1,22 +1,12 @@
 export interface Prototype {
-    name: string;
     clone(): Prototype;
+    toString(): string;
 }
 
 export class ConcreatePrototype implements Prototype {
 
-    private _name: string;
-
-    constructor(name: string) {
-        this._name = name;
-    }
-
-    get name(){
-        return this._name
-    }
-
-    set name(value: string) {
-        this._name = value;
+    toString(): string {
+        return "I am ConcreatePrototype";
     }
 
     clone(): Prototype {
