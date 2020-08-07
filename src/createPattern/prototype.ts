@@ -1,7 +1,6 @@
 export interface Prototype {
     name: string;
     clone(): Prototype;
-
 }
 
 export class ConcreatePrototype implements Prototype {
