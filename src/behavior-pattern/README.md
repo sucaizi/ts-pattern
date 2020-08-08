@@ -1,5 +1,5 @@
 ## Behavior Pattern ## 
-[中文](https://github.com/sucaizi/ts-pattern/blob/master/src/behavior-pattern/mediator.ts)
+[中文](https://github.com/sucaizi/ts-pattern/blob/master/src/behavior-pattern/README_CN.md)
 
 ### Observer Pattern ###
 
