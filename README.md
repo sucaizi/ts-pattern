@@ -16,7 +16,7 @@
 
 *  [Observer](https://github.com/sucaizi/ts-pattern/blob/master/src/behavior-pattern/observer.ts)
 
-*  [Mediator](https://github.com/sucaizi/ts-pattern/blob/master/src/behavior-pattern/mediator.ts
+*  [Mediator](https://github.com/sucaizi/ts-pattern/blob/master/src/behavior-pattern/mediator.ts)
 
 
 ### Structure Pattern ###
