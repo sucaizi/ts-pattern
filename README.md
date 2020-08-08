@@ -18,6 +18,8 @@
 
 *  [Mediator](https://github.com/sucaizi/ts-pattern/blob/master/src/behavior-pattern/mediator.ts)
 
+*  [Memento](https://github.com/sucaizi/ts-pattern/blob/master/src/behavior-pattern/memento.ts
+
 
 ### Structure Pattern ###
 

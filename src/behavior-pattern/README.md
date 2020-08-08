@@ -5,4 +5,16 @@
 
 Define a one-to-many dependency between objects so that when one object changes state, all its dependents are notified and updated automatically. 
 
-*GOF
+### Mediator Pattern ###
+
+Promotes loose coupling by keeping objects from referring to each other explicitly, and it lets you vary their interaction independently.
+
+### Memento Pattern ###
+
+Capture an object’s internal state and externalize it so that it can be restored to that state later
+
+### Memento Pattern ###
+
+Capture an objectâ€™s internal state and externalize it so that it can be restored to that state later.
+
+*GOF*
