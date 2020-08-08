@@ -11,14 +11,17 @@
 * [Prototype](https://github.com/sucaizi/ts-pattern/blob/master/src/create-pattern/prototype.ts)
 * [Iterator](https://github.com/sucaizi/ts-pattern/blob/master/src/create-pattern/iterator.ts)
 
-### Structure Pattern ###
-
-* TODO
 
 ### Behavior Pattern ###
 
 *  [Observer](https://github.com/sucaizi/ts-pattern/blob/master/src/behavior-pattern/observer.ts)
 
+*  [Mediator](https://github.com/sucaizi/ts-pattern/blob/master/src/behavior-pattern/mediator.ts
+
+
+### Structure Pattern ###
+
+* TODO
 
 ## Local Development
 
