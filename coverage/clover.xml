@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1596877550013" clover="3.2.0">
-  <project timestamp="1596877550013" name="All files">
-    <metrics statements="157" coveredstatements="152" conditionals="22" coveredconditionals="19" methods="68" coveredmethods="65" elements="247" coveredelements="236" complexity="0" loc="157" ncloc="157" packages="3" files="10" classes="10"/>
+<coverage generated="1596889860568" clover="3.2.0">
+  <project timestamp="1596889860568" name="All files">
+    <metrics statements="184" coveredstatements="177" conditionals="22" coveredconditionals="19" methods="85" coveredmethods="80" elements="291" coveredelements="276" complexity="0" loc="184" ncloc="184" packages="3" files="11" classes="11"/>
     <package name="src">
       <metrics statements="1" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
       <file name="index.ts" path="/Users/suda/Public/demos/practice/ts-pattern/src/index.ts">
@@ -10,7 +10,7 @@
       </file>
     </package>
     <package name="src.behavior-pattern">
-      <metrics statements="51" coveredstatements="48" conditionals="14" coveredconditionals="12" methods="22" coveredmethods="20"/>
+      <metrics statements="78" coveredstatements="73" conditionals="14" coveredconditionals="12" methods="39" coveredmethods="35"/>
       <file name="mediator.ts" path="/Users/suda/Public/demos/practice/ts-pattern/src/behavior-pattern/mediator.ts">
         <metrics statements="29" coveredstatements="29" conditionals="14" coveredconditionals="12" methods="13" coveredmethods="13"/>
         <line num="1" count="1" type="stmt"/>
@@ -42,6 +42,36 @@
         <line num="56" count="1" type="stmt"/>
         <line num="57" count="1" type="stmt"/>
         <line num="59" count="1" type="stmt"/>
+      </file>
+      <file name="memento.ts" path="/Users/suda/Public/demos/practice/ts-pattern/src/behavior-pattern/memento.ts">
+        <metrics statements="27" coveredstatements="25" conditionals="0" coveredconditionals="0" methods="17" coveredmethods="15"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="5" count="1" type="stmt"/>
+        <line num="8" count="1" type="stmt"/>
+        <line num="9" count="1" type="stmt"/>
+        <line num="12" count="1" type="stmt"/>
+        <line num="13" count="1" type="stmt"/>
+        <line num="16" count="1" type="stmt"/>
+        <line num="17" count="2" type="stmt"/>
+        <line num="21" count="1" type="stmt"/>
+        <line num="23" count="1" type="stmt"/>
+        <line num="25" count="1" type="stmt"/>
+        <line num="28" count="1" type="stmt"/>
+        <line num="31" count="1" type="stmt"/>
+        <line num="32" count="1" type="stmt"/>
+        <line num="36" count="0" type="stmt"/>
+        <line num="38" count="1" type="stmt"/>
+        <line num="40" count="1" type="stmt"/>
+        <line num="44" count="2" type="stmt"/>
+        <line num="47" count="1" type="stmt"/>
+        <line num="48" count="4" type="stmt"/>
+        <line num="52" count="0" type="stmt"/>
+        <line num="54" count="1" type="stmt"/>
+        <line num="56" count="1" type="stmt"/>
+        <line num="59" count="1" type="stmt"/>
+        <line num="60" count="1" type="stmt"/>
+        <line num="64" count="1" type="stmt"/>
+        <line num="66" count="1" type="stmt"/>
       </file>
       <file name="observer.ts" path="/Users/suda/Public/demos/practice/ts-pattern/src/behavior-pattern/observer.ts">
         <metrics statements="22" coveredstatements="19" conditionals="0" coveredconditionals="0" methods="9" coveredmethods="7"/>
