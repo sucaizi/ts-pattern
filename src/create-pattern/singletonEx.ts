@@ -1,13 +1,13 @@
-export class SingletonEx{
-    private static singleton: any = null;
+export class SingletonEx {
+  private static singleton: any = null;
 
-    private constructor() {}
+  private constructor() {}
 
-    public static getInstance <T> (t: {new(): T}): T {
-        if (!SingletonEx.singleton) {
-            SingletonEx.singleton = new t();
-        }
-
-        return SingletonEx.singleton;
+  public static getInstance<T>(t: { new (): T }): T {
+    if (!SingletonEx.singleton) {
+      SingletonEx.singleton = new t();
     }
+
+    return SingletonEx.singleton;
+  }
 }
