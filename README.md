@@ -22,6 +22,8 @@
 
 *  [Template Method](https://github.com/sucaizi/ts-pattern/blob/master/src/behavior-pattern/template-method.ts)
 
+*  [Strategy Method](https://github.com/sucaizi/ts-pattern/blob/master/src/behavior-pattern/strategy.ts)
+
 
 ### Structure Pattern ###
 

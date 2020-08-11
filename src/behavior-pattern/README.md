@@ -21,5 +21,8 @@ Capture an objectâ€™s internal state and externalize it so that it can be r
 
 Define the basic steps of an algorithm and allow the implementation of the individual steps to be changed.
 
+### Strategy Pattern ###
+
+Define a family of algorithms, encapsulate each one, and make them interchangeable. Strategy lets the algorithm vary independently from clients that use it.
 
 *GOF*
