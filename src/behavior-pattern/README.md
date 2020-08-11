@@ -17,4 +17,9 @@ Capture an object’s internal state and externalize it so that it can be restor
 
 Capture an objectâ€™s internal state and externalize it so that it can be restored to that state later.
 
+### Template Method ###
+
+Define the basic steps of an algorithm and allow the implementation of the individual steps to be changed.
+
+
 *GOF*

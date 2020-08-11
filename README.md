@@ -20,6 +20,8 @@
 
 *  [Memento](https://github.com/sucaizi/ts-pattern/blob/master/src/behavior-pattern/memento.ts)
 
+*  [Template Method](https://github.com/sucaizi/ts-pattern/blob/master/src/behavior-pattern/template-method.ts)
+
 
 ### Structure Pattern ###
 
