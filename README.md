@@ -15,14 +15,11 @@
 ### Behavior Pattern ###
 
 *  [Observer](https://github.com/sucaizi/ts-pattern/blob/master/src/behavior-pattern/observer.ts)
-
 *  [Mediator](https://github.com/sucaizi/ts-pattern/blob/master/src/behavior-pattern/mediator.ts)
-
 *  [Memento](https://github.com/sucaizi/ts-pattern/blob/master/src/behavior-pattern/memento.ts)
-
 *  [Template Method](https://github.com/sucaizi/ts-pattern/blob/master/src/behavior-pattern/template-method.ts)
-
 *  [Strategy Method](https://github.com/sucaizi/ts-pattern/blob/master/src/behavior-pattern/strategy.ts)
+*  [State Method](https://github.com/sucaizi/ts-pattern/blob/master/src/behavior-pattern/state.ts)
 
 
 ### Structure Pattern ###

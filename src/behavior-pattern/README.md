@@ -25,4 +25,8 @@ Define the basic steps of an algorithm and allow the implementation of the indiv
 
 Define a family of algorithms, encapsulate each one, and make them interchangeable. Strategy lets the algorithm vary independently from clients that use it.
 
+### State Pattern ###
+
+A cleaner way for an object to change its behavior at runtime without resorting to large monolithic conditional statements.
+
 *GOF*
