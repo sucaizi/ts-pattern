@@ -2,7 +2,7 @@ import {
   ConcreteState1,
   Context,
   ConcreteState2,
-  State
+  State,
 } from '../src/behavior-pattern/state';
 
 describe('state pattern', () => {

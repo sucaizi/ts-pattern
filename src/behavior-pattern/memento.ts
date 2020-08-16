@@ -2,7 +2,7 @@ export class Originator {
   private _state!: State;
 
   constructor(state: State) {
-      this._state = state;
+    this._state = state;
   }
 
   createMemento(): Memento {
